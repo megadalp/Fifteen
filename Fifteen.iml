@@ -12,15 +12,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../DemoLib/out/artifacts/DemoLib_jar/DemoLib.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/../Utils/out/artifacts/Utils_jar/Utils.jar!/" />
         </CLASSES>
         <JAVADOC />
