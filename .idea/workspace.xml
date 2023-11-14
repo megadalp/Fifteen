@@ -9,8 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3cc76ca-b864-4d77-b525-7e14f9c2ef77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/org/dalp/fifteen/Fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/dalp/fifteen/Fifteen.java" afterDir="false" />
+    <list default="true" id="a3cc76ca-b864-4d77-b525-7e14f9c2ef77" name="Changes" comment="before ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Projects/Java/DemoLib/out/artifacts/DemoLib_jar/DemoLib.jar",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.toDoOptions"
@@ -98,8 +98,23 @@
       <option name="presentableId" value="Default" />
       <updated>1690549542104</updated>
       <workItem from="1690549544105" duration="42185000" />
-      <workItem from="1699613012268" duration="17637000" />
+      <workItem from="1699613012268" duration="19076000" />
     </task>
+    <task id="LOCAL-00001" summary="remove test code">
+      <created>1699994184147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699994184147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="before ignore">
+      <created>1699994245243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699994245243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +130,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove test code" />
+    <MESSAGE value="before ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="before ignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
