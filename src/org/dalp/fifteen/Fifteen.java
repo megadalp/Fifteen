@@ -9,9 +9,8 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-//FYI закомментил, потому что мешает попробовать собрать пятнашки, чтоб запустить на машине без явы
+//FYI тестирую подключение внешних модулей
 import org.dalp.util.Formatter;
-import org.dalp.demolib.*;
 
 public class Fifteen extends Frame {
     static int n = 4;
@@ -217,10 +216,7 @@ class FifteenRun {
         appwin.setTitle("Пятнашки"
             //FYI тестирую подключение внешних модулей
             + " " + Formatter.asNumberInWords(Fifteen.n) + " на " + Formatter.asNumberInWords(Fifteen.n)
-            + " (just test only: " + (new LibOne().methodOne()) + " and " + (new LibTwo().methodTwoOne())
-            + ")"
         );
-        // appwin.setTitle("Пятнашки" + " - " + new LibOne().methodOne());
         appwin.setVisible(true);
     }
 }
