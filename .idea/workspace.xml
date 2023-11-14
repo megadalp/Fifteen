@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3cc76ca-b864-4d77-b525-7e14f9c2ef77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Fifteen_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Fifteen_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fifteen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Fifteen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/dalp/fifteen/Fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/dalp/fifteen/Fifteen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690549542104</updated>
       <workItem from="1690549544105" duration="42185000" />
-      <workItem from="1699613012268" duration="17307000" />
+      <workItem from="1699613012268" duration="17637000" />
     </task>
     <servers />
   </component>
